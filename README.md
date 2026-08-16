@@ -7,7 +7,6 @@ The application targets **Ubuntu Linux** and **Raspberry Pi OS** and provides ma
 > **Status:** In development  
 > **Duration:** 10 weeks  
 > **Target completion:** 25 October 2026  
-> **Project cost:** ₹35,000
 
 ## 1. Project Overview
 
